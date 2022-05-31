@@ -1,0 +1,11 @@
+{
+    "name": "mybuh/test",
+    "authors": [
+        {
+            "name": "Didar Zhexembaev"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=3.0"
+    }
+}
